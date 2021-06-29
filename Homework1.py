@@ -1,6 +1,6 @@
 print('Hiya World')
 print('My new line')
-
+print('second change before pushing a commit')
 """
 Git Bash
 
